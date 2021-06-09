@@ -1000,19 +1000,19 @@ vertical-align: middle;
             font-size: 3px;
         }
 
-        .lig&gt;.bayrak {
+        .lig>.bayrak {
             padding-left: 5px;
 
             object-fit: contain;
         }
 
-                .lig&gt;.status {
+                .lig>.status {
 padding-top:5%;
             padding-left: 5px;
             object-fit: contain;
         }
 
-        .lig&gt;.isim {
+        .lig>.isim {
 padding-top:1%;
 position: absolute;
 padding-left: 10%;
@@ -1021,7 +1021,7 @@ padding-left: 10%;
             font-weight: bold;
         }
 
-.lig&gt;.ratio {
+.lig>.ratio {
 padding-top:1%;
 position: absolute;
 padding-left: 10%;
@@ -1030,7 +1030,7 @@ padding-left: 10%;
             font-weight: bold;
         }
 
-        .lig&gt;.saat {
+        .lig>.saat {
             width: 85px;
         }
 
@@ -1116,7 +1116,7 @@ font-weight:bold;
             height: 15px;
         }
 
-        .ikitakim&gt;.home {
+        .ikitakim>.home {
             font-size: 14px;
             font-weight:bold;
             position: absolute;
@@ -1124,7 +1124,7 @@ font-weight:bold;
             right: calc(50% + 25px);
         }
 
-        .ikitakim&gt;.skor {
+        .ikitakim>.skor {
             font-weight:bold;
             font-size: 17px;
             width: 70px;
@@ -1133,7 +1133,7 @@ font-weight:bold;
       padding-top:5px;
         }
 
-        .ikitakim&gt;.away {
+        .ikitakim>.away {
             font-weight:bold;
             font-size: 14px;
             position: absolute;
