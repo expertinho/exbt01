@@ -1,0 +1,1392 @@
+ body {
+      background-color:#333;
+            background-image: url(&quot;https://1.bp.blogspot.com/-Gq2try4N_Ag/XvUeYOXIR9I/AAAAAAAAAHM/cZg9c8qnzNYqSzNcGWD39CaZKH19X42LgCK4BGAsYHg/s50/bg.png&quot;);
+            margin-right: 5px;
+            margin-left: 5px;
+        }
+      
+.sarim {
+            color: rgb(243, 190, 17) !important;
+padding-bottom: 0.5%;
+font-weight:bold;
+font-size: 13px;
+        }
+
+/* FLAGS */ 
+
+.GEORGIA {
+background-image: url(https://1.bp.blogspot.com/-EHI8uZvGJbw/YJMCWHrIOCI/AAAAAAAAA-o/WHw9tGu5r-Upp0tF65bhxGznVgN8ya82ACNcBGAsYHQ/s0/georgia25x25.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+}
+
+.KOSOVO {
+background-image: url(https://1.bp.blogspot.com/-kZBcsL_f4lU/YGiL0FIX-RI/AAAAAAAAA98/1LKHfl2535Y7zBVlv7vQ1F1WHxHkQdYcQCNcBGAsYHQ/s0/kosovo25.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+}
+
+.CYPRUS {
+background-image: url(https://1.bp.blogspot.com/-A85z8nqWwG4/YAlwmzstXgI/AAAAAAAAA8Q/85jvLpLlOmYAufMwsK0r6VJMcnFfGDp3QCNcBGAsYHQ/s320/cyprus25.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+}
+
+.KUWAIT {
+background-image: url(https://1.bp.blogspot.com/-DHxAjRxL9i0/YAlwjzjdPrI/AAAAAAAAA8M/OTgr11TRwboed5Ye5JoSU1rDQKdoFXadQCNcBGAsYHQ/s320/kuwait25.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+}
+
+.IRAN {
+background-image: url(https://1.bp.blogspot.com/--K_b3Dgp9xo/X_uc8rkBXuI/AAAAAAAAACY/qjSuBjEOw3wi9UcFU3jtZaVh-8UTY8fWgCLcBGAsYHQ/s320/iran25x25.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+}
+      
+      
+.AFRICA {
+background-image: url(https://1.bp.blogspot.com/-xkvv_Zes5EI/X7Pa8BmmYUI/AAAAAAAAABM/89LjQpLWhyYYHQYMenGa0f6c6GxZFr0FACLcBGAsYHQ/s0/africa.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+}
+
+.COLOMBIA {
+background-image: url(https://1.bp.blogspot.com/-dJia2qeiVzg/X7Pa8MENS4I/AAAAAAAAABQ/qEtjuuWjICwniK7d2UdbqVT5R0_BrGNBQCLcBGAsYHQ/s0/colombia.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+}
+
+.GLOBAL {
+background-image: url(https://1.bp.blogspot.com/-PWup7NI0jB0/X7Pa8MoUQbI/AAAAAAAAABU/9ORW-iiKPKYTOgArLgv55YPmWZCGnJBdgCLcBGAsYHQ/s0/global.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+}
+
+.live {
+background-image: url(https://1.bp.blogspot.com/-Uu0BHkvPhDk/X7Pa8lYA5zI/AAAAAAAAABY/VR3KeN15YQANTUFPyUrbJkV_UJDkbUmTwCLcBGAsYHQ/s0/live.gif);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+}
+
+.LIVE2 {
+background-image: url(https://1.bp.blogspot.com/-sPTRNAHSDcI/YBqQ8cxppVI/AAAAAAAAA80/MS6Jtd3jc5YO0woBxqSmNJSvazbmV_7PgCNcBGAsYHQ/s320/live.png);
+background-repeat: no-repeat;
+width: 30px;
+height: 20px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+}
+
+.NORTHERN-IRELAND {
+background-image: url(https://1.bp.blogspot.com/-DoZUYJcw-sA/X7Pa81URC_I/AAAAAAAAABc/Nwl6keS37bIHKHVB5qGAXmstkVsAm4jTwCLcBGAsYHQ/s0/n-ireland.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+}
+            
+.ALGERIA {
+background-image: url(https://1.bp.blogspot.com/-hNfethEwU8w/X4WfnzEiO5I/AAAAAAAAAzM/GO8glEpXpBosDSASCymR2xQ2_Rgh3iynwCNcBGAsYHQ/s25/algeria.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.ARGENTINA {
+background-image: url(https://1.bp.blogspot.com/-2g2YuYyZA44/X4Wfn1KaAhI/AAAAAAAAAzI/wky471QCCD0oMJlOXNTjHFWr2vZSUH-lQCNcBGAsYHQ/s25/argentina.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.AUSTRALIA {
+background-image: url(https://1.bp.blogspot.com/-F1BnOjIlk30/X4Wfn1YGspI/AAAAAAAAAzQ/FU-cQUuwKAcewFu17ym9_SOjaZhmtAQvACNcBGAsYHQ/s25/australia.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.AUSTRIA {
+background-image: url(https://1.bp.blogspot.com/-zw5Ggh6pYHA/X4WforVOF0I/AAAAAAAAAzU/CXVdkdiwSGAFBI0Yqr6W6dUhBT3HWemPACNcBGAsYHQ/s25/austria.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.BELARUS {
+background-image: url(https://1.bp.blogspot.com/-2ZreEBJm8DI/X4Wfo2h6FgI/AAAAAAAAAzY/_iEYbrYDKEAtFWtgmDw-0zyLU7qahKDLgCNcBGAsYHQ/s25/belarus.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.BELGIUM {
+background-image: url(https://1.bp.blogspot.com/-CNhvJKi_GII/X4WfoySkJuI/AAAAAAAAAzc/gjQxUE0LGHci0VxRhgPjeck8D_peYxTswCNcBGAsYHQ/s25/belgium.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.BOLIVIA {
+background-image: url(https://1.bp.blogspot.com/-VMyTP9Pd0ro/X4WfpEEvynI/AAAAAAAAAzg/PX_N-Zy9tJ8z10pV81nyptwmPqSbK6GOACNcBGAsYHQ/s25/bolivia.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.BRAZIL {
+background-image: url(https://1.bp.blogspot.com/-JePnAPeHdEw/X4WfpSEg9oI/AAAAAAAAAzk/xgijVQ4rKKkihGtCTe65y5UPt-i-AL-kQCNcBGAsYHQ/s25/brazil.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.BULGARIA {
+background-image: url(https://1.bp.blogspot.com/-cLIFqY1_6_k/X4Wfpg3d40I/AAAAAAAAAzo/En4ZlXf6bvwHMDJbJb7r758bj-VB8c7nACNcBGAsYHQ/s25/bulgaria.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.CHAMPIONS {
+background-image: url(https://1.bp.blogspot.com/-Dspxj5_aHJo/X4WfplWS5vI/AAAAAAAAAzs/fPl4fQLwQYQ0BK5Yxb_CBisX2OJ3oAHdQCNcBGAsYHQ/s25/champions.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.CHILE {
+background-image: url(https://1.bp.blogspot.com/-tqtoh3id9NA/X4WfpwdA38I/AAAAAAAAAzw/Hd-NWMsUNgg074Zs8zHn7lIIGIPQl85PQCNcBGAsYHQ/s25/chile.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.CHINA {
+background-image: url(https://1.bp.blogspot.com/-swWUgit15L0/X4WfqGA420I/AAAAAAAAAz0/2mniB47JECYuw5Dzf73Fnih2hHjEI7tFwCNcBGAsYHQ/s25/china.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.CROATIA {
+background-image: url(https://1.bp.blogspot.com/-ZAs9OsQ4wR4/X4WfqZVA1HI/AAAAAAAAAz4/mo9dpA__svMPVs5MQqoubvfeNK1SKvR2QCNcBGAsYHQ/s25/croatia.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.CZECH {
+background-image: url(https://1.bp.blogspot.com/-8Ou80zFOo2Y/X4WfqeY7jeI/AAAAAAAAAz8/i6T5RPCEkw4-Op-QGKzKCHoEkXjDT02_ACNcBGAsYHQ/s25/czech.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.DENMARK {
+background-image: url(https://1.bp.blogspot.com/-_CV8ivh1YiY/X4WfqmuQoRI/AAAAAAAAA0A/66hni1IHhMElp-IkjXhFhRyxb5NCYZ89ACNcBGAsYHQ/s25/denmark.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.EGYPT {
+background-image: url(https://1.bp.blogspot.com/-7b8nsCHZW-o/X4WfqxJ6BdI/AAAAAAAAA0E/2iraWNQ_jBg-Hz4IIAzcUb7x4mpS9jRZwCNcBGAsYHQ/s25/egypt.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.ENGLAND {
+background-image: url(https://1.bp.blogspot.com/-xcU1qg4pmOI/X4Wfq9z86bI/AAAAAAAAA0I/QxuwP63ICzQFnOlX3e2xN1YsE3Zif-K5ACNcBGAsYHQ/s25/england.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.ESTONIA {
+background-image: url(https://1.bp.blogspot.com/-uxH1_EjWwd0/X4WfraLjvqI/AAAAAAAAA0M/5o-0BZE4iJUAkgxdd0Vi9H0L6MgeHHlOQCNcBGAsYHQ/s25/estonia.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.EU {
+background-image: url(https://1.bp.blogspot.com/-bGqtLWogbng/X4WfrWqWtQI/AAAAAAAAA0Q/mAjukkzTjHMof2jEuZoxYXRWZ7pFGdUGwCNcBGAsYHQ/s25/eu.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.EURO {
+background-image: url(https://1.bp.blogspot.com/-Eudtewe5HXg/X4WfrqONZEI/AAAAAAAAA0U/0QV2pZ8XsycK6EqWOJmSmGLpGQNtFCllACNcBGAsYHQ/s25/euro.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.FAROE {
+background-image: url(https://1.bp.blogspot.com/-0HQOavzntO8/X4Wfr68SzTI/AAAAAAAAA0Y/R4zbgD9KFWkJPW_1XrIkWq8tL7oxmMTBQCNcBGAsYHQ/s25/faroe.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.FINLAND {
+background-image: url(https://1.bp.blogspot.com/-G2tZ5K2jCzU/X4Wfr9ewTeI/AAAAAAAAA0c/qZrtqQvDnBYLPKeS-H4KOqjkwLALQXNNgCNcBGAsYHQ/s25/finland.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.FRANCE {
+background-image: url(https://1.bp.blogspot.com/-A9ua_4eh_zY/X4WfsBF3ulI/AAAAAAAAA0g/kUwJIWp427UOxiE2O_-lGUVQDQulos7AgCNcBGAsYHQ/s25/france.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.GERMANY {
+background-image: url(https://1.bp.blogspot.com/-tSXY-IiYKvA/X4Wfscxr8jI/AAAAAAAAA0k/7GsJASDpv40BwdA1KRDsZSfM_6VWTicVQCNcBGAsYHQ/s25/germany.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.GLOBAL {
+background-image: url(https://1.bp.blogspot.com/-ol1JC6xJ0u4/X4WfsmYYf4I/AAAAAAAAA0o/HZqpzfluKT0eIqem4SnPV1FBuiqGLjVPQCNcBGAsYHQ/s25/global.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.GREECE {
+background-image: url(https://1.bp.blogspot.com/-VwWAZ6Heeus/X4Wfs13dNiI/AAAAAAAAA0s/k2JZTOYwz-MRjfSOuAxHrHSPJmV55j3EQCNcBGAsYHQ/s25/greece.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.HUNGARY {
+background-image: url(https://1.bp.blogspot.com/-rHZuMFeOLDI/X4Wfs4ooUpI/AAAAAAAAA0w/_1etM3AvAPgDo5C278XBvFK8Nqn4t34_wCNcBGAsYHQ/s25/hungary.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.ICELAND {
+background-image: url(https://1.bp.blogspot.com/-YFOltCVMMBw/X4WftEmZprI/AAAAAAAAA00/MGtqj4xALMwjJ3en0Enofz149czJbVDQACNcBGAsYHQ/s25/iceland.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.IRELAND {
+background-image: url(https://1.bp.blogspot.com/-R5bHQqysZVk/X4WftYKi_oI/AAAAAAAAA04/-0GwrF1yK9E9MNJxaFGoxUQut-OoAUTngCNcBGAsYHQ/s25/ireland.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.ITALY {
+background-image: url(https://1.bp.blogspot.com/-XoxL7VlUiAQ/X4WftZFlOxI/AAAAAAAAA08/P0bUxRKhNaQFLMibHLbkBQ138jAkKdFKACNcBGAsYHQ/s25/italy.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.JAPAN {
+background-image: url(https://1.bp.blogspot.com/-aZ1kiU55-9E/X4WftgLsrSI/AAAAAAAAA1A/AxtYZshKC60rvHK3G3jaG9nluxjXZH6kwCNcBGAsYHQ/s25/japan.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.JORDAN {
+background-image: url(https://1.bp.blogspot.com/-Sb4D6V3eSks/X4WfuE_G8BI/AAAAAAAAA1E/jE-EfhHw0tcz1mQbNlT1CjebMZ0Pzj3TACNcBGAsYHQ/s25/jordan.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.KSA {
+background-image: url(https://1.bp.blogspot.com/-yExtrsUGlDQ/X4WfuaOUx1I/AAAAAAAAA1I/IBKz08q6mW06iGZGg_eunqO0dI940eoywCNcBGAsYHQ/s25/ksa.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.LATVIA {
+background-image: url(https://1.bp.blogspot.com/-H-CMzYS6EWc/X4WfuirQDNI/AAAAAAAAA1M/o5t7AVFfiCYx_nleBOfIVpEPhZMW1hBqQCNcBGAsYHQ/s25/latvia.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.LITHUANIA {
+background-image: url(https://1.bp.blogspot.com/-4UfAFcrEeUM/X4Wfuw9E9OI/AAAAAAAAA1Q/IPRkPWXnNjw12t_flgdTKxzaEO2P_1n0wCNcBGAsYHQ/s25/lithuania.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.MOROCCO {
+background-image: url(https://1.bp.blogspot.com/-o8Q3xFL3UyY/X4Wfu5o0eWI/AAAAAAAAA1U/O75uVP9nSZEe7QHs7jfDeSwAdRuIxLoigCNcBGAsYHQ/s25/morocco.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.NETHERLANDS {
+background-image: url(https://1.bp.blogspot.com/-UwY2iTU8jRk/X4WfvOCOugI/AAAAAAAAA1Y/fZ93f4czU8ssH6yerbgZd4rdUGymz3MyACNcBGAsYHQ/s25/netherland.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.NORWAY {
+background-image: url(https://1.bp.blogspot.com/-XY8OljrwUnA/X4WfvbcCtnI/AAAAAAAAA1g/_Xy3uw7IvTQg_IPlTDvIenOjc1pqYDjngCNcBGAsYHQ/s25/norway.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.PERU {
+background-image: url(https://1.bp.blogspot.com/-fAejwYt9bFc/X4Wfvc3rs7I/AAAAAAAAA1c/FdQjVjEsWq4cgpi--sshJx8WYQmEYTYOQCNcBGAsYHQ/s25/peru.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.POLAND {
+background-image: url(https://1.bp.blogspot.com/-W-3Is4RtFec/X4WfvsRh1OI/AAAAAAAAA1k/EQAfregVmhgYhLOvRldBeNsPSsXS06MegCNcBGAsYHQ/s25/poland.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.PORTUGAL {
+background-image: url(https://1.bp.blogspot.com/-qYflsy80jlc/X4Wfv-67WUI/AAAAAAAAA1o/2W7QdWBe2k8OamAwLv0IfrEPFj16MZgygCNcBGAsYHQ/s25/portugal.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.QATAR {
+background-image: url(https://1.bp.blogspot.com/-5rXVZkPuuS0/X4WfvzIUimI/AAAAAAAAA1s/VHxeKb1XFroPhWjhZbze4xctAGGlWl6zACNcBGAsYHQ/s25/qatar.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.ROMANIA {
+background-image: url(https://1.bp.blogspot.com/-V6UggiE-90o/X4WfwCkPlQI/AAAAAAAAA1w/AocaH__zV2gUukaSad0WXEtjx4kdqMkywCNcBGAsYHQ/s25/romania.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.RUSSIA {
+background-image: url(https://1.bp.blogspot.com/-DsrmncMZTRQ/X4WfwpVcJKI/AAAAAAAAA10/0ZrXGzGijfEaJ3leML56ECd3uZFlcCf5QCNcBGAsYHQ/s25/russia.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.SCOTLAND {
+background-image: url(https://1.bp.blogspot.com/-yKicBB2lW-k/X4Wfw7-_OrI/AAAAAAAAA14/6rmej3dJw7gq7knSxzMyaL7xWL9PU41kQCNcBGAsYHQ/s25/scotland.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.SERBIA {
+background-image: url(https://1.bp.blogspot.com/-6EFynFm3tUo/X4WfxCeQA6I/AAAAAAAAA18/GWL1cSsBYSsMrNLKtxNTAV_5gqA8Lf2VACNcBGAsYHQ/s25/serbia.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.SKOREA {
+background-image: url(https://1.bp.blogspot.com/-kEibSRsJlw4/X4WfxeHVwkI/AAAAAAAAA2A/jOJWegL4PxUU5ZYcI9Ru5QJZYwp03Y4eQCNcBGAsYHQ/s25/skorea.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.SLOVENIA {
+background-image: url(https://1.bp.blogspot.com/-fgzcQS6ip30/X4WfxraaZiI/AAAAAAAAA2E/4Aqq7qPZ7EQ3emikUa-q5VhuUWTbneqgACNcBGAsYHQ/s25/slovenia.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.SPAIN {
+background-image: url(https://1.bp.blogspot.com/-tlfdLAVgyiU/X4WfxiE5TFI/AAAAAAAAA2I/52jVs-TrLkAtqTigzg27cekIVhsKDfXVwCNcBGAsYHQ/s25/spain.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.SWEDEN {
+background-image: url(https://1.bp.blogspot.com/-MTCcXwFcDpc/X4Wfx7459LI/AAAAAAAAA2M/6317pz9pavgcYTFQ2EGbJTIsHcmhP0sGQCNcBGAsYHQ/s25/sweden.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.SWITZERLAND {
+background-image: url(https://1.bp.blogspot.com/-JRfJPBc-Ldc/X4WfyNks7mI/AAAAAAAAA2Q/NBOfDab6qmYXGbsnxTOmNKWyGMjKt2ILwCNcBGAsYHQ/s25/switzerland.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.TURKEY {
+background-image: url(https://1.bp.blogspot.com/-5c0Io3Hfv1Q/X4WfySlETGI/AAAAAAAAA2U/DykusWjKjXwekm2FvPN1ZWaJlnOIgm-yACNcBGAsYHQ/s25/turkey.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.UAE {
+background-image: url(https://1.bp.blogspot.com/-nEUTByQbnyc/X4Wfyt-BZxI/AAAAAAAAA2Y/AYW-MOCWhuYD_OcfnGJUjgg-AVVs8JnXwCNcBGAsYHQ/s25/uae.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.UKRAINE {
+background-image: url(https://1.bp.blogspot.com/-MmcyHVrXqgU/X4WfyvqD_EI/AAAAAAAAA2c/lVsiSyEXn5gOx1oKid0kXeyXiCVt7HFuwCNcBGAsYHQ/s25/ukraine.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.USA {
+background-image: url(https://1.bp.blogspot.com/-YTRldN9NjSM/X4Wfy1gxxaI/AAAAAAAAA2g/iyrV6i2CJEoEA77BLJrgmlEdJR7shOvZgCNcBGAsYHQ/s25/usa.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+.WALES {
+background-image: url(https://1.bp.blogspot.com/-h-HffiBY1EQ/X4WfzeRia0I/AAAAAAAAA2k/XIiXbk9uaO0WbI7EAMvRBnglON9UWN_KgCNcBGAsYHQ/s25/wales.png);
+background-repeat: no-repeat;
+width: 25px;
+height: 25px;
+min-width: 25px;
+min-height: 25px;
+display: inline-block;
+vertical-align: middle;
+} 
+      
+      
+      /* FLAGS OVER */ 
+
+      .cardtrust {
+            margin-top: 10px;
+            text-align: center;
+            background-color: #d18847;
+            padding: 5px;
+            -webkit-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            -moz-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            border-radius: 0px 0px 0px 0px;
+            -moz-border-radius: 6px 6px 6px 6px;
+            -webkit-border-radius: 0px 0x 0px 0px;
+            border: 2px solid #36bd66 ;
+            font-family: &#39;Lucida Sansfont&#39;, &#39;Lucida Sans Regular&#39;, &#39;Lucida Grande&#39;, &#39;Lucida Sans Unicode&#39;, Geneva, Verdana, sans-serif;
+            border-radius: 10px;
+        }
+
+      .cardbigtip {
+            margin-top: 10px;
+            text-align: center;
+            background-color: #d18847;
+            padding: 5px;
+            -webkit-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            -moz-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            border-radius: 0px 0px 0px 0px;
+            -moz-border-radius: 6px 6px 6px 6px;
+            -webkit-border-radius: 0px 0x 0px 0px;
+            border: 1px solid white ;
+            font-family: &#39;Lucida Sansfont&#39;, &#39;Lucida Sans Regular&#39;, &#39;Lucida Grande&#39;, &#39;Lucida Sans Unicode&#39;, Geneva, Verdana, sans-serif;
+            border-radius: 10px;
+        }
+      
+
+      .cardrecovery {
+            margin-top: 10px;
+            text-align: center;
+            background-color: #d18847;
+            padding: 5px;
+            -webkit-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            -moz-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            border-radius: 0px 0px 0px 0px;
+            -moz-border-radius: 6px 6px 6px 6px;
+            -webkit-border-radius: 0px 0x 0px 0px;
+            border: 1px solid white ;
+            font-family: &#39;Lucida Sansfont&#39;, &#39;Lucida Sans Regular&#39;, &#39;Lucida Grande&#39;, &#39;Lucida Sans Unicode&#39;, Geneva, Verdana, sans-serif;
+            border-radius: 10px;
+        }
+      
+      
+      
+      .tarihwelcome {
+            background-color: #349454 !important;
+            color: white !important;
+            font-size: 15px;
+      font-weight:bold;
+        }
+      
+      .cardwelcome {
+            margin-top: 10px;
+      width:80%;
+            text-align: center;
+            background-color: #138f3e;
+            padding: 10px;
+            -webkit-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            -moz-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            border-radius: 0px 0px 0px 0px;
+            -moz-border-radius: 6px 6px 6px 6px;
+            -webkit-border-radius: 0px 0x 0px 0px;
+            border: 2px solid #246d0b ;
+            font-family: &#39;Lucida Sansfont&#39;, &#39;Lucida Sans Regular&#39;, &#39;Lucida Grande&#39;, &#39;Lucida Sans Unicode&#39;, Geneva, Verdana, sans-serif;
+            border-radius: 10px;
+        }
+      
+      
+      
+        .cardhistory {
+            margin-top: 10px;
+            text-align: center;
+            background-color: #138f3e;
+            padding: 5px;
+            -webkit-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            -moz-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            border-radius: 0px 0px 0px 0px;
+            -moz-border-radius: 6px 6px 6px 6px;
+            -webkit-border-radius: 0px 0x 0px 0px;
+            border: 2px solid #d36832 ;
+            font-family: &#39;Lucida Sansfont&#39;, &#39;Lucida Sans Regular&#39;, &#39;Lucida Grande&#39;, &#39;Lucida Sans Unicode&#39;, Geneva, Verdana, sans-serif;
+            border-radius: 10px;
+        }
+       
+        .card3 {
+            margin-top: 10px;
+            text-align: center;
+            background-color: #138f3e;
+            padding: 5px;
+            -webkit-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            -moz-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            border-radius: 0px 0px 0px 0px;
+            -moz-border-radius: 6px 6px 6px 6px;
+            -webkit-border-radius: 0px 0x 0px 0px;
+            border: 2px solid #138f3e ;
+            font-family: &#39;Lucida Sansfont&#39;, &#39;Lucida Sans Regular&#39;, &#39;Lucida Grande&#39;, &#39;Lucida Sans Unicode&#39;, Geneva, Verdana, sans-serif;
+            border-radius: 10px;
+        }
+
+                .cardrate {
+            margin-top: 10px;
+            text-align: center;
+            background-color: #138f3e;
+            padding: 5px;
+            -webkit-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            -moz-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            border-radius: 0px 0px 0px 0px;
+            -moz-border-radius: 6px 6px 6px 6px;
+            -webkit-border-radius: 0px 0x 0px 0px;
+            border: 2px solid #236c75 ;
+            font-family: &#39;Lucida Sansfont&#39;, &#39;Lucida Sans Regular&#39;, &#39;Lucida Grande&#39;, &#39;Lucida Sans Unicode&#39;, Geneva, Verdana, sans-serif;
+            border-radius: 10px;
+        }
+
+
+         .card5border {
+            margin-top: 10px;
+            text-align: center;
+            background-color: #cda12b;
+            padding: 10px;
+            -webkit-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            -moz-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            border-radius: 0px 0px 0px 0px;
+            -moz-border-radius: 6px 6px 6px 6px;
+            -webkit-border-radius: 0px 0x 0px 0px;
+            border: 2px solid #d9452d ;
+            font-family: &#39;Lucida Sansfont&#39;, &#39;Lucida Sans Regular&#39;, &#39;Lucida Grande&#39;, &#39;Lucida Sans Unicode&#39;, Geneva, Verdana, sans-serif;
+            border-radius: 10px;
+        }
+
+
+        .tarih2 {
+            background-color: #138f3e !important;
+            color: white !important;
+            font-size: 17px;
+        }
+
+                .tarihhistory {
+            background-color: #e07f4f !important;
+            color: white !important;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: white;
+            font-size: 17px;
+        }
+
+                .tarihrate {
+            background-color: #266465 !important;
+            color: white !important;
+              -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: white;
+            font-size: 17px;
+        }
+
+                .tarihbigtip {
+            background-color: #e5391d !important;
+            color: #ffffff !important;
+            font-size: 16px;
+        }
+
+
+        .archive {
+            padding: 10px;
+            width: 80%;
+            background-color: #304d25;
+            margin-top: 10px;
+            color: blue;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .tarih {
+            background-color: #009688 !important;
+            color: white !important;
+            font-size: 17px;
+
+
+        }
+      
+      
+              .tarihtrust {
+            background-color: #00a239 !important;
+      font-size: 17px;
+        }
+
+              .tarihrecovery {
+            background-color: #d7a22f !important;
+      font-size: 17px;
+        }
+
+
+        .link {
+            background-color: rgb(0, 42, 230) !important;
+            color: #1c212b !important;
+            font-size: 17px;
+
+
+        }
+
+        .sponsor {
+            background-color:#cc0000 !important;
+            color: #1c212b !important;
+            font-size: 17px;
+
+
+        }
+
+        .lig {
+            display:flex;
+
+            height: 20px;
+            justify-content: space-between;
+            font-size: 16px;
+
+        }
+
+        .buttonsunder {
+            display: flex;
+            box-shadow: 0px 2px 0px 0px rgb(0, 128, 0);
+            height: 20px;
+            justify-content: space-between;
+            font-size: 14px;
+        }
+
+        .buttonsundertakim {
+            display: flex;
+            box-shadow: 0px 2px 0px 0px rgb(243, 190, 17);
+            height: 20px;
+            justify-content: space-between;
+            font-size: 3px;
+        }
+
+        .lig&gt;.bayrak {
+            padding-left: 5px;
+
+            object-fit: contain;
+        }
+
+                .lig&gt;.status {
+padding-top:5%;
+            padding-left: 5px;
+            object-fit: contain;
+        }
+
+        .lig&gt;.isim {
+padding-top:1%;
+position: absolute;
+padding-left: 10%;
+            text-align: left;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+.lig&gt;.ratio {
+padding-top:1%;
+position: absolute;
+padding-left: 10%;
+            text-align: right;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        .lig&gt;.saat {
+            width: 85px;
+        }
+
+        .yesil {
+            color: #5ecf5e !important;
+        }
+
+        .kirmizi {
+            color: #cc0000 !important;
+        }
+
+        .siyah {
+            color: white !important;
+             -webkit-text-stroke-width: 0.5px;
+             -webkit-text-stroke-color: white;
+        }
+                .siyah5fonty {
+            color: white !important;
+            -webkit-text-stroke-width: 0.5px;
+            -webkit-text-stroke-color: white;
+        }
+
+        .gri {
+            color: #F3BE11 !important;
+            font-weight:bold;
+        }
+
+        .darkgri {
+            color: #BEC7C5 !important;
+        }
+
+.time {
+color: #f3be11 !important;
+font-size:14px;
+font-weight:bold;
+      display:inline-block;
+        }
+
+        .leaguename {
+            color: #eab652 !important;
+font-size:14px;
+font-weight:bold;
+        }
+        .leagueratio {
+            color: #32CD32 !important;
+font-size:14px;
+font-weight:bold;
+        }
+
+
+        .neutral {
+            color: #25b7d3 !important;
+            -webkit-text-stroke: 0.5px #25b7d3;
+        }
+
+                .won {
+            color: #5ecf5e !important;
+-webkit-text-stroke: 0.5px #5ecf5e;
+        }
+                        .lost {
+            color: #f63a3a !important;
+        }
+
+        .darkgrie {
+            color: #00FFCD !important;
+        }
+
+        .sari {
+            color: rgb(243, 190, 17) !important;
+padding-bottom: 0.5%;
+font-weight:bold;
+        }
+
+        .ikitakim {
+            display: flex;
+            position: relative;
+            padding-top: 8px;
+            font-size: 15px;
+            width: 100%;
+            justify-content: center;
+            align-items: center;
+            color: #878787;
+            height: 15px;
+        }
+
+        .ikitakim&gt;.home {
+            font-size: 14px;
+            font-weight:bold;
+            position: absolute;
+            padding-right: 4px;
+            right: calc(50% + 25px);
+        }
+
+        .ikitakim&gt;.skor {
+            font-weight:bold;
+            font-size: 17px;
+            width: 70px;
+            left: calc(50% - 35px);
+            position: absolute;
+      padding-top:5px;
+        }
+
+        .ikitakim&gt;.away {
+            font-weight:bold;
+            font-size: 14px;
+            position: absolute;
+            padding-left: 4px;
+            left: calc(50% + 25px);
+        }
+
+        .tahmin {
+            display: flex;
+            justify-content: flex-start;
+            margin-bottom: 1px;
+            background-color: rgba(0, 0, 0, 0.10);
+            margin: 5px;
+            padding: 5px;
+        }
+
+        .ligismi {
+            color: #7fed65;
+        }
+
+        .mt10 {
+            margin-top: 10px;
+        }
+
+        .mb10 {
+            margin-bottom: 10px;
+        }
+
+        .tahminbox {
+            padding-top: 2px;
+            color: #ddd;
+            font-size: 15px;
+            margin-left: 5px;
+            font-weight:bold;
+        }
+
+        .oran {
+            color: #ddd;
+            padding-left: 0px !important;
+            padding-top: 2px !important;
+            padding-right: 4px !important;
+            text-align: center;
+            font-size: 15px;
+            font-weight:bold;
+
+
+        }
+
+
+
+        .ligkolon {
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+            font-size: 14px;
+            padding-left: 0px !important;
+            padding-right: 0px !important;
+
+
+        }
+
+        .yildiz {
+
+            padding-left: 5px !important;
+            padding-right: 5px !important;
+        }
+      
+
+
+        .card {
+            margin-top: 10px;
+            text-align: center;
+            background-color: #333333;
+            padding: 7px;
+            -webkit-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            -moz-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            border-radius: 0px 0px 0px 0px;
+            -moz-border-radius: 6px 6px 6px 6px;
+            -webkit-border-radius: 0px 0x 0px 0px;
+            border: 2px solid #4be3d5;
+            font-family: &#39;Lucida Sans&#39;, &#39;Lucida Sans Regular&#39;, &#39;Lucida Grande&#39;, &#39;Lucida Sans Unicode&#39;, Geneva, Verdana, sans-serif;
+            border-radius: 10px;
+      }
+      
+              .card2acc {
+            margin-top: 10px;
+            text-align: center;
+            background-color: #333333;
+            padding: 12px;
+            -webkit-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            -moz-box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            box-shadow: -5px 6px 9px -4px rgba(0, 0, 0, 0.25);
+            border-radius: 0px 0px 0px 0px;
+            -moz-border-radius: 6px 6px 6px 6px;
+            -webkit-border-radius: 0px 0x 0px 0px;
+            border: 1px solid white;
+            font-family: &#39;Lucida Sans&#39;, &#39;Lucida Sans Regular&#39;, &#39;Lucida Grande&#39;, &#39;Lucida Sans Unicode&#39;, Geneva, Verdana, sans-serif;
+            border-radius: 10px;
+      }
+      
+      
+      
+                      .tarih2acc {
+            background-color: #266548 !important;
+            color: #ffffff !important;
+            font-size: 17px;
+        }
+      
+      
+
+        .sabitmenu {
+            position: fixed;
+            display: flex;
+            margin-bottom: 0px;
+            background-image: url(/gfx/bgmenu.png);
+            width: 100%;
+            justify-content: center;
+            align-items: center;
+            padding-bottom: 10px;
+            padding-top: 10px;
+
+
+        }
+
+
+
+        .activebutton {
+            background-color: #333;
+            color: #a7a7a7;
+        }
+      
+              .livegame {
+            padding-top: 4px;
+            color: #ddd;
+            font-size: 17px;
+            text-align: center;
+        }
+
+        a {
+            color: #ffffff;
+            text-decoration: none;
+            font-family: &#39;Lucida Sans&#39;, &#39;Lucida Sans Regular&#39;, &#39;Lucida Grande&#39;, &#39;Lucida Sans Unicode&#39;, Geneva, Verdana, sans-serif;
+        }
+    
+      
+      .statusWONxD {
+      content:url(&quot;https://1.bp.blogspot.com/-LuQb32lAkIs/XvUewMPXCGI/AAAAAAAAAOY/QSv01YzOiG06UhUrSVWbuD3wePln3wSlwCK4BGAsYHg/s50/won.png&quot;);
+      }
+      
+    .statusWON {
+    background-image: url(https://1.bp.blogspot.com/-cVdOsojHF-E/X0cBXHifAlI/AAAAAAAAAus/wv1o_Tx-CWgvf87V-kgnScer_6M_Iz0YACNcBGAsYHQ/s0/won25.png);
+    background-repeat: no-repeat;
+    width: 25px;
+    height: 25px;
+      min-width: 25px;
+    min-height: 25px;
+}
+      
+      .statusLOST {
+    background-image: url(https://1.bp.blogspot.com/-ygLyLREW-20/X0cC2rtT1KI/AAAAAAAAAvE/dseijSaU0S8-Qb-lD8ZlAmB1CoAjN1enACNcBGAsYHQ/s0/lost25.png);
+    background-repeat: no-repeat;
+    width: 25px;
+    height: 25px;
+      min-width: 25px;
+    min-height: 25px;
+}
+      
+ 
+      .statusNEUTRAL {
+    background-image: url(https://1.bp.blogspot.com/-z3MsaPjUjkA/X0cC2q05jpI/AAAAAAAAAvA/eNA9KX0y1gsqk0qw7kA2-1n-83o8g5tRACNcBGAsYHQ/s0/neutral25.png);
+    background-repeat: no-repeat;
+    width: 25px;
+    height: 25px;
+    min-width: 25px;
+    min-height: 25px;
+}
+      
+
+      
+            .css-button-rounded {
+    background: #80ae58;
+    color: #eee;
+      font-weight:bold;
+    display: block;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    width: 70px;
+    border-radius: 8px; // the rounded corners are here
+}
+
+      
+.css-button-rounded {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+      
+
+.css-button-rounded:hover {
+    background: #80ae58;
+    color:white;
+}
+      
+      
+      
+      .css-button-rounded2 {
+    background: #c3501e;
+    color: #eee;
+      font-weight:bold;
+    display: block;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    width: 70px;
+    border-radius: 8px; // the rounded corners are here
+}
+
+      
+.css-button-rounded2 {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+      
+
+.css-button-rounded2:hover {
+    background: #c3501e;
+    color:white;
+}
+      
+            .green95 {
+            color: #80dc1e !important;
+            font-weight:bold;
+        }
+      
+      .green94 {
+            color: #a0dc1e !important;
+            font-weight:bold;
+        }
+      
+      .green93 {
+            color: #dadc1e !important;
+            font-weight:bold;
+        }
+      .green92 {
+            color: #dc971e !important;
+            font-weight:bold;
+        }
+       .green90 {
+            color: #dc661e !important;
+            font-weight:bold;
+        }
