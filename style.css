@@ -1,6 +1,6 @@
  body {
       background-color:#333;
-            background-image: url(&quot;https://1.bp.blogspot.com/-Gq2try4N_Ag/XvUeYOXIR9I/AAAAAAAAAHM/cZg9c8qnzNYqSzNcGWD39CaZKH19X42LgCK4BGAsYHg/s50/bg.png&quot;);
+            background-image: url("https://1.bp.blogspot.com/-Gq2try4N_Ag/XvUeYOXIR9I/AAAAAAAAAHM/cZg9c8qnzNYqSzNcGWD39CaZKH19X42LgCK4BGAsYHg/s50/bg.png");
             margin-right: 5px;
             margin-left: 5px;
         }
@@ -1281,7 +1281,7 @@ font-weight:bold;
     
       
       .statusWONxD {
-      content:url(&quot;https://1.bp.blogspot.com/-LuQb32lAkIs/XvUewMPXCGI/AAAAAAAAAOY/QSv01YzOiG06UhUrSVWbuD3wePln3wSlwCK4BGAsYHg/s50/won.png&quot;);
+      content:url("https://1.bp.blogspot.com/-LuQb32lAkIs/XvUewMPXCGI/AAAAAAAAAOY/QSv01YzOiG06UhUrSVWbuD3wePln3wSlwCK4BGAsYHg/s50/won.png");
       }
       
     .statusWON {
